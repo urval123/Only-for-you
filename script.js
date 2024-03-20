@@ -25,7 +25,7 @@ const febHolidays = [
     "(But I'm never wrong)😝🤚🏻",
     "And I want to thank you",
     "for everything for putting up with me",
-    "when I get a LiTtLe annoying !",
+    "when I get a LiTtLe annoying!",
     "You taught me new things...",
     "and I would trust you with my life🤗🤞🏻",
     "I LOVE YOU💕✨",
