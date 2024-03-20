@@ -1,5 +1,5 @@
 const febHolidays = [
-    "Dear Best Friend💕,",
+    "Dear Best Friend💕",
     "I'm so lucky to have you in my life",
     "You accept me at my worst💞",
     "And make me feel amazing at my best",
