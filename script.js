@@ -6,7 +6,7 @@ const febHolidays = [
     "We have our inside jokes",
     "That no one else but us understand✌🏻",
     "When I fall you laugh😆",
-    "but you always there to pick me up !",
+    "but you always there to pick me up!",
     "You get my UgLiEst photos and videos",
     "that could socially destory me🤪",
     "But I know you would never use them against me...😍",
