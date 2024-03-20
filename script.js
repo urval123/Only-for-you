@@ -17,7 +17,7 @@ const febHolidays = [
     "You are irreplaceable,",
     "You are my other half😻💕",
     "I would never be able to imagine life without you,",
-    "I am a better person when I'm with you !🥰",
+    "I am a better person when I'm with you!🥰",
     "I can always count on you",
     "To be there when I needed you most🤩",
     "You always stick up for me",
